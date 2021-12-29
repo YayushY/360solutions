@@ -147,8 +147,8 @@ body {
 
 .section-heading {
   text-align: center;
-  margin-top: 140px;
-  margin-bottom: 80px;
+  margin-top: 70px;
+  margin-bottom: 20px;
 }
 
 .section-heading h2 {
@@ -1220,7 +1220,7 @@ responsive
     font-size: 64px;
   }
   #features {
-    margin-bottom: 110px;
+    margin-bottom: 55px;
   }
   #features .feature-item {
     margin-bottom: 30px;
